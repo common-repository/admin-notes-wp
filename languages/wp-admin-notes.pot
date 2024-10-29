@@ -1,0 +1,360 @@
+# Copyright (C) 2021 Web Rockstar
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Notes WP 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-admin-notes-off\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-17T02:04:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0-alpha-59d879d\n"
+"X-Domain: wp-admin-notes\n"
+
+#. Plugin Name of the plugin
+#: admin/class-wp-admin-notes-admin.php:415
+msgid "Admin Notes WP"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create and manage admin footer text, help tabs, and notices directly from the WordPress admin."
+msgstr ""
+
+#. Author of the plugin
+msgid "Web Rockstar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://webrockstar.net"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:132
+#: admin/class-wp-admin-notes-admin-notice.php:177
+#: includes/acf/fields/help-tab-settings.php:8
+#: includes/acf/fields/notice-settings.php:9
+msgid "Screen ID"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:173
+msgctxt "post type general name"
+msgid "Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:174
+msgctxt "post type singular name"
+msgid "Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:175
+msgctxt "admin menu"
+msgid "Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:176
+msgctxt "add new on admin bar"
+msgid "Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:177
+msgctxt "wpan_help_tab"
+msgid "Add New"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:178
+msgid "Add New Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:179
+msgid "New Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:180
+msgid "Edit Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:181
+msgid "View Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:182
+msgid "All Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:183
+msgid "Search Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:184
+msgid "Parent Help Tabs:"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:185
+msgid "No Help Tabs found."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-help-tab.php:186
+msgid "No Help Tabs found in Trash."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:217
+msgctxt "post type general name"
+msgid "Admin Notices"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:218
+msgctxt "post type singular name"
+msgid "Admin Notice"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:219
+msgctxt "admin menu"
+msgid "Admin Notices"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:220
+msgctxt "add new on admin bar"
+msgid "Admin Notice"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:221
+msgctxt "wpan_notice"
+msgid "Add New"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:222
+msgid "Add New Admin Notice"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:223
+msgid "New Admin Notice"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:224
+msgid "Edit Admin Notice"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:225
+msgid "View Admin Notice"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:226
+msgid "All Admin Notices"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:227
+msgid "Search Admin Notices"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:228
+msgid "Parent Admin Notices:"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:229
+msgid "No Admin Notices found."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin-notice.php:230
+msgid "No Admin Notices found in Trash."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:117
+#: admin/class-wp-admin-notes-admin.php:215
+msgid "(click to copy)"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:118
+msgid "(copied!)"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:419
+msgid "Admin Footer Text"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:420
+msgid ""
+"Overrides the default text in the very bottom left corner of every WordPress admin page.\n"
+"\t\t\t\t\tThis is typically used to highlight the department or company that developed/configured the website."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:422
+msgid "Enable Admin Footer Text"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:425
+msgid "Footer Text"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:428
+msgid "Website built and configured by https://webrockstar.net"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:435
+msgid "Allowed HTML: a, strong, em. URLs are automatically converted to links."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:436
+msgid "Footer Text Icon Image"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:437
+msgid ""
+"Optional image icon for the admin footer text. Icon is displayed at 24px X 24px and left aligned.\n"
+"\t\t\t\t     Transparent PNG or SVG works best."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:447
+msgid "Notice Posts"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:449
+msgid "Disable Notice Posts"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:451
+msgid "Toggles the display of the Admin Notices post type on the left menu bar."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:453
+msgid "Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:454
+msgid "Custom help tabs on WordPress admin pages. Created and managed in the WordPress admin."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:455
+msgid "Disable Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:457
+msgid "Toggles the display of the Help Tab post type on the left menu bar."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:460
+msgid "Global Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:461
+msgid ""
+"A single global help tab that appears on every WordPress admin page.\n"
+"\t\t\t\t\t This is typically used to display a message about who to contact regarding technical issues or feature requests."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:463
+msgid "Enable Global Help Tab"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:465
+msgid "Global Help Tab Title"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:474
+msgid "Global Help Tab Body"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:483
+msgid "Global Help Tab Logo Image"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:484
+msgid ""
+"Optional logo image to display at the bottom of the global help tab content.\n"
+"\t\t\t\t\t\t This is typically the logo of the company that configured/developed the website, if applicable.\n"
+"\t\t\t\t\t\t This image is displayed with a maximum width and height of 200px. Transparent PNG or SVG works best."
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:496
+msgid "Other Settings"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:498
+msgid "Hide Default Help Tabs"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:502
+msgid "Animate Help Tab Before First Click"
+msgstr ""
+
+#: admin/class-wp-admin-notes-admin.php:504
+msgid ""
+"To help users discover the help tab, it will bounce and highlight until clicked.\n"
+"\t\t\t\t\t  After it is clicked once it will never animate again for that user."
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:12
+#: includes/acf/fields/notice-settings.php:12
+msgid "Admin Screen Reference"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:13
+#: includes/acf/fields/notice-settings.php:13
+msgid "https://codex.wordpress.org/Plugin_API/Admin_Screen_Reference"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:16
+msgid "https://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:17
+msgid "Learn more about embedding in WordPress."
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:21
+msgid "Help Tab Settings"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:25
+msgid "Help Tab Content"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:28
+msgid "Instructional 'how to' videos from youtube.com, slide shows from slideshare.net, and more can easily be embedded into help tab content. %1$s"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:45
+#: includes/acf/fields/notice-settings.php:67
+msgid "Admin Screen ID"
+msgstr ""
+
+#: includes/acf/fields/help-tab-settings.php:48
+msgid "The screen id of the WordPress admin page the notice should appear on. If you are unsure of the screen id, use the %1$s link in the tool bar at the very top of the admin screen you would like the help tab to appear on. You can also refer to %2$s for a list of the core WordPress screen ids."
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:18
+msgid "Notice Settings"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:22
+msgid "Notice Text"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:25
+msgid "a, br, em, and strong HTML tags are allowed in the notice text. URLs are automatically converted to links."
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:41
+msgid "Notice Type"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:53
+msgid "General Information (blue)"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:54
+msgid "Success (green)"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:55
+msgid "Warning (yellow)"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:56
+msgid "Error (red)"
+msgstr ""
+
+#: includes/acf/fields/notice-settings.php:70
+msgid "The screen id of the WordPress admin page the notice should appear on. If you are unsure of the screen id, use the %1$s link in the tool bar at the very top of the admin screen you would like the notice to appear on. You can also refer to %2$s for a list of the core WordPress screen ids."
+msgstr ""
